@@ -1,0 +1,13 @@
+{
+  "name": "proyecto-equipo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Validación del contrato JSON de datos del equipo",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
+
