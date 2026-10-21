@@ -1,0 +1,35 @@
+{
+  "proyecto": {
+    "nombre": "Proyecto del equipo",
+    "descripcion": "Página del equipo construida colaborativamente con GitHub, ramas y revisión de código.",
+    "version": "1.0.0"
+  },
+  "integrantes": [
+    {
+      "nombre": "Reemplazar con nombre real",
+      "rol": "Líder",
+      "github": "usuario-github"
+    },
+    {
+      "nombre": "Reemplazar con nombre real",
+      "rol": "Frontend",
+      "github": "usuario-github"
+    },
+    {
+      "nombre": "Reemplazar con nombre real",
+      "rol": "Backend",
+      "github": "usuario-github"
+    },
+    {
+      "nombre": "Reemplazar con nombre real",
+      "rol": "Tester",
+      "github": "usuario-github"
+    },
+    {
+      "nombre": "Reemplazar con nombre real",
+      "rol": "Documentador",
+      "github": "usuario-github"
+    }
+  ]
+}
+
